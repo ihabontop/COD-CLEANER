@@ -42,5 +42,3 @@ Do not delete any files or folders from the installation directory. All componen
 ## Thank you
 
 Thank you for using COD-CLEANER!
-
-Translated with DeepL.com (free version)
